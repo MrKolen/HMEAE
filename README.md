@@ -1,7 +1,7 @@
 # Hierarchical Modular Event Argument Extraction
 1. The code is an implementation of Hierarchical Modular Event Argument Extraction (EMNLP19 paper).
 
-2. Videological for Introducing work: https://www.bilibili.com/video/BV17Q4y1M7A9
+2. Video for Introducing work: https://www.bilibili.com/video/BV17Q4y1M7A9
 
 # Requirments
 tensorflow-gpu==1.10
